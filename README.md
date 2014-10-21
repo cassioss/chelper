@@ -1,4 +1,12 @@
 chelper
 =======
 
-A few functions made in C/C++ for CS 438 (Communication Networks) Machine Problems (MPs)
+A few simple functions made in C/C++ for CS 438 (Communication Networks) Machine Problems (MPs).
+
+If you think about using them for you MPs, remember to make the required references to it.
+
+Contents
+--------
+
+- **file_manip.cpp**: contains functions to make precise sections of characters in a file. Its main() shows how it works for
+- *test.txt*: a short text file to test file_manip.cpp
