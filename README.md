@@ -3,6 +3,10 @@ chelper
 
 A few simple functions made in C/C++ for CS 438 (Communication Networks) Machine Problems (MPs).
 
+Warning
+-------
+
+They were tested using Cygwin and Sublime Text 2 on Windows 8. Some adjustments may be needed for Linux machines.
 If you think about using them for you MPs, remember to make the required references to it.
 
 Contents
