@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <fstream>
 
+// Author: Cassio dos Santos Sousa
+
 int filesize(char* filename);
 void print(int a);
 void pickup(FILE *f, char* buf, int reference);
