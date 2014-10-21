@@ -12,5 +12,5 @@ Warning
 Contents
 --------
 
-- **file_manip.cpp**: contains functions to make precise sections of characters in a file. Its main() shows how it works for
-- *test.txt*: a short text file to test file_manip.cpp
+- **file_manip.cpp**: contains functions to make precise sections of characters in a file. Its main() shows how it works for the file *test.txt*;
+- *test.txt*: a short text file to test file_manip.cpp.
